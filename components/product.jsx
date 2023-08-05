@@ -9,7 +9,7 @@ function Product(props){
 
     return(
         <div className="product">
-            <img src="https://picsum.photos/239/225" alt=""></img>
+            <img src={"/images/"+ props.data.image} alt=""></img>
             <h5>{props.data.title}</h5>
             <div className="prices">
                 <label>{props.data.price}</label>

@@ -1,61 +1,61 @@
 let catalog = [
     {
-        "title" : "Orange",
-        "category" : "fruit",
+        "title" : "Addition Board",
+        "category" : "Boards",
         "price" : 12.99,
-        "image" : "somewhere",
+        "image" : "addboard.jpg",
         "_id" : 1
     },
 
     {
-        "title" : "apple",
-        "category" : "fruit",
+        "title" : "Post-it Note Holder",
+        "category" : "Other",
         "price" : 14.99,
-        "image" : "somewhere",
+        "image" : "postit.jpeg",
         "_id" : 2
     },
 
     {
-        "title" : "berries",
-        "category" : "fruit",
+        "title" : "ABC Flash Cards",
+        "category" : "Other",
         "price" : 16.99,
-        "image" : "somewhere",
+        "image" : "abcflashcard.jpg",
         "_id" : 3
     },
 
     {
-        "title" : "banana",
-        "category" : "fruit",
+        "title" : "ABC Puzzle",
+        "category" : "Boards",
         "price" : 17.99,
-        "image" : "somewhere",
+        "image" : "abcpuz.jpg",
         "_id" : 4
     },
     {
-        "title" : "cherries",
-        "category" : "fruit",
+        "title" : "Book Earrings",
+        "category" : "Earrings",
         "price" : 18.99,
-        "image" : "somewhere",
+        "image" : "bookear.JPG",
         "_id" : 5
     },
     {
-        "title" : "prune",
-        "category" : "fruit",
+        "title" : "Ghost Earrings",
+        "category" : "Earrings",
         "price" : 19.99,
-        "image" : "somewhere",
+        "image" : "ghostear.JPG",
         "_id" : 6
     },
     {
-        "title" : "peach",
-        "category" : "fruit",
+        "title" : "Multiplication Board",
+        "category" : "Boards",
         "price" : 11.99,
-        "image" : "somewhere",
+        "image" : "mulboard.jpeg",
         "_id" : 7
     },
     {
-        "title" : "mustard",
-        "category" : "fruit",
+        "title" : "Skeleton Earrings",
+        "category" : "Earrings",
         "price" : 10.99,
-        "image" : "somewhere",
+        "image" : "skelear.JPG",
         "_id" : 8
     },
 ]
